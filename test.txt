@@ -1,0 +1,2 @@
+This a test file.
+This is to explain how to delete a file to impact git record.
